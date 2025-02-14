@@ -8,7 +8,7 @@ This project is a Java-based tool for performing various matrix operations, incl
 
 - **Author**: liamkelso
 - **Version**: 1.0
-- **Date last updated**: 2024-06-25
+- **Date last updated**: 2025-02-12
 
 ## Prerequisites
 
